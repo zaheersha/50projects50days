@@ -1,5 +1,5 @@
 # 50projects50days
-HTML,CSS,JS,BOOTSTRAP
+HTML,CSS & JS
 
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
